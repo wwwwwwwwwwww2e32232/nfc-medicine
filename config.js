@@ -2,7 +2,7 @@
 window.APP_CONFIG = {
   // 구글 Apps Script 웹앱 주소 (설치 가이드 3단계에서 복사)
   // 비워 두면 "데모 모드": 기록이 이 기기 브라우저에만 저장됩니다.
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbzOV3sotkNrqa8qA-5md0mc7lXXlqlBEwvzmZSLVP_XsClgdoMvOthJ24JTmmD8wUEQ0w/exec",
 
   // 등록(관리자) 페이지 비밀번호. Apps Script의 ADMIN_PIN 과 같게 맞추세요.
   ADMIN_PIN: "1234",
