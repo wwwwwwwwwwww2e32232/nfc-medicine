@@ -5,7 +5,7 @@ window.APP_CONFIG = {
   API_URL: "https://script.google.com/macros/s/AKfycbzOV3sotkNrqa8qA-5md0mc7lXXlqlBEwvzmZSLVP_XsClgdoMvOthJ24JTmmD8wUEQ0w/exec",
 
   // 등록(관리자) 페이지 비밀번호. Apps Script의 ADMIN_PIN 과 같게 맞추세요.
-  ADMIN_PIN: "1234",
+  ADMIN_PIN: "7788",
 
   // 사이트 주소 (NFC/QR 에 들어갈 주소의 앞부분)
   // 비워 두면 현재 접속한 주소를 자동으로 사용합니다.
